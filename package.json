@@ -1,0 +1,15 @@
+{
+  "name": "secure-api-key-setup",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Codex Skill for secure loopback API-key intake and official credential-store delegation.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "scan:secrets": "node scripts/secret-scan.js"
+  },
+  "license": "MIT"
+}

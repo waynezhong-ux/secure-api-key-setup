@@ -1,0 +1,17 @@
+node_modules/
+coverage/
+dist/
+*.log
+*.zip
+*.skill
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.secret
+secrets.json
+credentials.json

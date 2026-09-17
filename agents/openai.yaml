@@ -1,0 +1,4 @@
+interface:
+  display_name: "Secure API Key Setup"
+  short_description: "Safely store API keys through local credential backends"
+  default_prompt: "Use $secure-api-key-setup to securely configure an API key for a supported endpoint."
