@@ -1,5 +1,7 @@
 # secure-api-key-setup
 
+English | [简体中文](README.zh-CN.md)
+
 A reusable Codex Skill for collecting a third-party API key through a temporary loopback-only browser page and saving it with the target tool's official credential store.
 
 The first adapter supports Hypit. The server never receives a key from a URL or command argument, never writes it to disk, and never implements its own secret store.
@@ -116,6 +118,7 @@ secure-api-key-setup/
 ├── LICENSE
 ├── package.json
 ├── README.md
+├── README.zh-CN.md
 └── SKILL.md
 ```
 
